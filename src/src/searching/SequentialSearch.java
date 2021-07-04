@@ -29,11 +29,7 @@ public class SequentialSearch {
 
     public static void main(String[] args) {
         SequentialSearch obj = new SequentialSearch();
-
-//        Untuk menampilkan data pada Array
         obj.tampilkanData();
-
-//        Melakukan pencarian data
         obj.searching(8);
     }
 }

@@ -14,6 +14,7 @@ public class BubbleSort {
             }
         }
     }
+
     public static void main(String[] args) {
         int bilangan[] = {9, 3, 4, 1, 8, 10, 2, 6};
         System.out.println("Sebelum Dilakukan Sorting");
